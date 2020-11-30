@@ -1,0 +1,108 @@
+body{
+    font-family: Roboto;
+    font-size: 16px;
+}
+
+.jumbotron{
+    float: left;
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h5{
+    font-weight: bold;
+}
+
+.texto{
+    background-color: white;
+    text-align: justify;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 200px;
+    padding: 35px;
+    border-radius: 12px;
+    border-style: solid;
+    border-color:black;
+    width: 75%;
+    
+}
+
+.page-footer{
+    margin-top: 300px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+table{
+    border: 1;
+    border-style: solid;
+}
+th{
+    order: 1;
+    border-style: solid;
+    text-align: center;
+}
+
+tr{
+    border: 1;
+    border-style: solid;
+}
+td{
+    order: 1;
+    border-style: solid;
+    text-align: justify;
+}
+.opcion{
+    text-align: center;
+}
+form{
+    text-align: center;
+
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%;
+}
+
+.adivinanza{
+    color: white;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+
+.adivino{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
+    -webkit-transform: translate(-50%, 0);
+}
+
+.pista{
+    text-align: center;
+    color: blanchedalmond;
+}
+
+.intentoNum{
+    border-style: solid;
+    border-radius: 4em;;
+    border-color:black;
+    padding: 2px;
+}
+.pista1{
+    text-align: center;
+    font-family: sans-serif;
+    margin-left: 150px;
+}
+.pista2{
+    text-align: center;
+    font-family: sans-serif;
+    margin-left: 250px;
+}
